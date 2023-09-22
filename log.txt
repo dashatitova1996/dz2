@@ -1,0 +1,20 @@
+
+Results of a game
+Your number: 1
+Here's: orel
+Result: 1
+
+Results of a game
+Your number: 2
+Here's: reshka
+Result: 1
+
+Results of a game
+Your number: 2
+Here's: orel
+Result: 0
+
+Results of a game
+Your number: 1
+Here's: orel
+Result: 1
